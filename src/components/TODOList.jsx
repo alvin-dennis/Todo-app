@@ -8,7 +8,7 @@ function TODOList({ todos, setTodos }) {
           <Item key={index} item={item} todos={todos} setTodos={setTodos} />
         ))
       ) : (
-        <p>Seems lonely in here, what are you up to?</p>
+        <p>Seems lonely in here, what are you up to today?</p>
       )}
     </ol>
   );
