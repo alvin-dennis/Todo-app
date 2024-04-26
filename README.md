@@ -27,7 +27,7 @@ This is a simple Todo App built with Next.js. It allows users to create, read, u
 2. **Install dependencies:**
 
    ```bash
-   cd todo-app-nextjs
+   cd Todo-App
    npm install
    ```
 
